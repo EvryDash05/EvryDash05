@@ -15,6 +15,8 @@
 - ⚡ Actualmente profundizando en **arquitectura de microservicios y seguridad móvil**.
 - 💬 Cuento con más de un año de experiencia en proyectos académicos y personales aplicando **metodologías ágiles**.
 
+📫 **Contacto:** [ccenchosantacruzever@gmail.com](mailto:ccenchosantacruzever@gmail.com)
+
 <p align="left">
 </p>
 
