@@ -10,9 +10,10 @@
 
 <h3 align="center">Sobre mi</h3>
 
-- 🌱 Estudiante de inf.software enfocado en el desarrollo backend
-- 💬 Soy un estudiante de Ingeniería de Software con un fuerte interés en el desarrollo backend, particularmente en Java. Tengo más de un año de experiencia en proyectos académicos y personales
-- 📫 Contact **ccenchosantacruzever@gmail.com**
+- 🚀 **Estudiante de Ingeniería de Software** apasionado por el desarrollo Backend y la arquitectura de sistemas.
+- 🏗️ Especializado en el ecosistema de **Java (Spring Boot)**, con experiencia en el desarrollo de soluciones escalables y seguras.
+- ⚡ Actualmente profundizando en **arquitectura de microservicios y seguridad móvil**.
+- 💬 Cuento con más de un año de experiencia en proyectos académicos y personales aplicando **metodologías ágiles**.
 
 <p align="left">
 </p>
