@@ -18,13 +18,13 @@
 </p>
 
 <h3 align="center">TECNOLOGÍAS</h3>
-<h3 align="left">FrontEnd</h3>
-<p align="left">
+<h3 align="center">FrontEnd</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 </p>
-<h3 align="left">BackEnd</h3>
+<h3 align="center">BackEnd</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
